@@ -1,5 +1,8 @@
 # GMU CS325 Introduction to Game Design
 
+
+Index.html contains all the games I worked on throughout the semester in Introduction to Game Design.
+
 This repository will contain links and source for all of your games.
 This repository should be marked as GitHub Pages. This lets you run your games directly from GitHub!
 Check it out: [http://gmu-cs325.github.io/cs325-game-prototypes/](http://gmu-cs325.github.io/cs325-game-prototypes/)
